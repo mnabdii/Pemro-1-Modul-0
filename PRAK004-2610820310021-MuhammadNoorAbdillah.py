@@ -1,0 +1,6 @@
+print("#" * 40)
+print("#" + " " * 38 + "#")
+print(f"#        Muhammad Noor Abdillah        #")
+print(f"#             2610820310021            #")
+print("#" + " " * 38 + "#")
+print("#" * 40)
